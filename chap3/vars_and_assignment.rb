@@ -7,9 +7,9 @@ myString = '...you can say that again...'
 puts (myString*2)
 
 
+composer = 'Beethoven'
 puts composer + ' was "da bomb", in his day.'
 
-composer = 'Beethoven'
 puts 'But I prefer ' + composer + ', personally.'
 
 
