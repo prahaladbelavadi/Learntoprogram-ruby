@@ -8,4 +8,6 @@ This repo contains code from pine.fm/learntoprogram
 There isn't any relevant programming involved but mostly stuff on learning ruby.
 This is a repo of me trying out code samples from the book.
 
-Continute from [Chap07](https://pine.fm/LearnToProgram/chap_07.html)
+Continute from [Chap10](https://pine.fm/LearnToProgram/chap_10.html) Blocks and Procs
+Review how internal instance variables, initialize and parameters inside the class work
+
